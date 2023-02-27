@@ -49,10 +49,10 @@ namespace digiBank.Model
             Console.WriteLine("                               Digite seu nome :                     ");
             string nome = Console.ReadLine();
             Console.WriteLine("                               ==========================            ");
-            Console.WriteLine("                               Digite seu cpf  :                     ");
+            Console.WriteLine("                               Digite o cpf  :                     ");
             string cpf = Console.ReadLine();
             Console.WriteLine("                               ==========================            ");
-            Console.WriteLine("                               Digite sua senha :                    ");
+            Console.WriteLine("                               Digite a senha :                    ");
             string senha = Console.ReadLine();
             Console.WriteLine("                               ==========================            ");
 
