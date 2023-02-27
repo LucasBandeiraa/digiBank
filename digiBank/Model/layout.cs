@@ -19,7 +19,7 @@ namespace digiBank.Model
             Console.Clear();
 
             Console.WriteLine("                                                                     ");
-            Console.WriteLine("                               Digite a opção deseja :               ");
+            Console.WriteLine("                               Digite a opção que você deseja :      ");
             Console.WriteLine("                               ==========================            ");
             Console.WriteLine("                               1 - Criar Conta                       ");
             Console.WriteLine("                               ==========================            ");
